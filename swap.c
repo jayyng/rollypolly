@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int x = 100;
+  int x = 30;
   int y = 42;
   printf("x is %d and y is %d\n", x, y);
 
